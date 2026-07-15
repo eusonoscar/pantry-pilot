@@ -1,0 +1,17 @@
+INSERT INTO categories (name) VALUES
+('Frutas y verduras'),
+('Carnes'),
+('Pescados y mariscos'),
+('Lácteos'),
+('Huevos'),
+('Panadería y bollería'),
+('Desayuno y cereales'),
+('Pastas, arroces y legumbres'),
+('Aceites, salsas y condimentos'),
+('Conservas'),
+('Platos precocinados'),
+('Congelados'),
+('Bebidas'),
+('Bebidas alcohólicas'),
+('Snacks y aperitivos'),
+('Otros');
