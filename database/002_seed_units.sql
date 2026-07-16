@@ -1,16 +1,16 @@
-INSERT INTO units (code, name, kind) VALUES
-('g', 'Gramo', 'weight'),
-('kg', 'Kilogramo', 'weight'),
-('mg', 'Miligramo', 'weight'),
+INSERT INTO units (name, code, kind) VALUES
+('Gramo', 'g', 'weight'),
+('Kilogramo', 'kg', 'weight'),
+('Miligramo', 'mg', 'weight'),
 
-('ml', 'Mililitro', 'volume'),
-('cl', 'Centilitro', 'volume'),
-('l', 'Litro', 'volume'),
+('Mililitro', 'ml', 'volume'),
+('Centilitro', 'cl', 'volume'),
+('Litro', 'l', 'volume'),
 
-('unidad', 'Unidad', 'count'),
-('docena', 'Docena', 'count'),
-('paquete', 'Paquete', 'count'),
-('lata', 'Lata', 'count'),
-('botella', 'Botella', 'count'),
-('brick', 'Brick', 'count'),
-('bolsa', 'Bolsa', 'count');
+('Unidad', 'unidad', 'count'),
+('Docena', 'docena', 'count'),
+('Paquete', 'paquete', 'count'),
+('Lata', 'lata', 'count'),
+('Botella', 'botella', 'count'),
+('Brick', 'brick', 'count'),
+('Bolsa', 'bolsa', 'count');
